@@ -72,3 +72,13 @@ ER Diagram![Sell It](https://github.com/user-attachments/assets/19990407-1352-49
 	3. Unzip 'sell_it.zip' in -> xaamp->htdocs folder.
 
 	4. click apache admin or go to 'http://localhost/sell_it/'   in browser
+
+## Project Snapshorts
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e9799464-418c-4c57-9236-f2fe546ef3a9" />
+
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e43bec12-402b-40e1-8c74-520adf5b2c1d" />
+
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/8412b5cd-b91c-48b0-9902-3a9247c75abe" />
+
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/793b1c83-b2db-48b0-b919-e3983fb89573" />
+
