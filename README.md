@@ -1,4 +1,4 @@
-# 🛒 Sell-It-Marketplace  
+# Sell-It-Marketplace  
 A Product Listing Platform
 
 ---
@@ -33,7 +33,7 @@ The goal of this project is to create a *marketplace for buying and selling seco
 ---
 
 ## Video Demonstration
-📺 *[Watch Project Demo](https://youtu.be/bzzjSGDPerc)*
+*[Watch Project Demo](https://youtu.be/bzzjSGDPerc)*
 
 The video covers:
 - All functionalities in action.
@@ -42,27 +42,27 @@ The video covers:
 
 ---
 
-## 💻 Frontend Overview
+## Frontend Overview
 - Built using *HTML, CSS, PHP*.
 - Displays product list dynamically from database.
 - Simple, responsive UI for browsing items.
 
 ---
 
-## 🛠 Backend & Database Overview
+## Backend & Database Overview
 - Backend handles *query execution and business logic*.
 - *MySQL* database (specify actual DBMS) for storing product & user data.
 - ER diagram designed for efficiency and normalization.
 
 ---
 
-## 📊 ER Diagram
+## ER Diagram
 ER Diagram![Sell It](https://github.com/user-attachments/assets/19990407-1352-4940-8523-cecbfeee42e2)
 
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 	1. Start xaamp Apache and MySql.
 
 	2. Import shopee.sql using database admin panel.
