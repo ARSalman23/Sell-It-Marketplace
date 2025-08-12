@@ -2,9 +2,9 @@
 A Product Listing Platform
 
 ---
-*Team Number:* 04 
+*Team Number:* 04
+
 *Project Name:* Sell-It-Marketplace  
-*Website Name:* sellitmarketplace.com  
 
 
 ## Group Details & Contributions
