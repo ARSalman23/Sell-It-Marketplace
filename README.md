@@ -11,10 +11,10 @@ A Product Listing Platform
 
 | Member Name & Id | Contribution |
 |-------------|--------------|
-| *Taufiq Ahmed Chowdhury (231-115-053)* | Backend query execution & logic |
-| *Md. Abdur Rahman Salman (231-115-045)* | ER diagram design & database implementation |
-| *Tanvir Muhammad Hassan (231-115-0-056)* | Showing data from database in frontend |
-| *Husam Ahmed Chowdhury (231-115-054)* | Added products to the database and database to frontend connection |
+| *Taufiq Ahmed Chowdhury (231-115-053)* | Backend query execution & Database implementation |
+| *Md. Abdur Rahman Salman (231-115-045)* | ER diagram and Database design & Database implementation |
+| *Tanvir Muhammad Hassan (231-115-0-056)* | Database implementation and Frontend design |
+| *Husam Ahmed Chowdhury (231-115-054)* | Frontend design and Database to Frontend connection |
 
 ---
 
