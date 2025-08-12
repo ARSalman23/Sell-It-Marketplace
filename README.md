@@ -14,7 +14,7 @@ A Product Listing Platform
 | *Taufiq Ahmed Chowdhury (231-115-053)* | Backend query execution & Database implementation |
 | *Md. Abdur Rahman Salman (231-115-045)* | ER diagram, Database design & Database implementation |
 | *Tanvir Muhammad Hassan (231-115-0-056)* | Database implementation and Frontend, ER diagram design |
-| *Husam Ahmed Chowdhury (231-115-054)* | Frontend design and Database to Frontend connection |
+| *Husam Ahmed Chowdhury (231-115-054)* | Frontend design and Database connection |
 
 ---
 
