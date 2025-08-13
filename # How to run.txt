@@ -1,0 +1,10 @@
+# How to run:
+	1. Start xaamp Apache and MySql.
+
+	2. Import shopee.sql using database admin panel.
+
+	3. goto xaamp-> Explorer (under shell option) ->htdocs folder delete everything. 
+
+	3. Unzip 'sell_it.zip' in -> xaamp->htdocs folder.
+
+	4. click apache admin or go to 'http://localhost/sell_it/'   in browser
